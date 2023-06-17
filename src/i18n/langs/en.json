@@ -1,0 +1,62 @@
+{
+    "home": {
+        "hero": {
+            "about_us": "About us",
+            "workshops": "Workshop and master-classes",
+            "location_text": "Kazakhstan, Astana",
+            "graphic": "Working 24/7",
+            "cards": {
+                "design": "Design",
+                "SMM": "SMM",
+                "development": "Development"
+            },
+            "go_to": "View cases"
+        }
+    },
+    "footer": {
+        "links": {
+            "home": "Home",
+            "team": "About us",
+            "design": "Design",
+            "SMM": "Smm",
+            "development": "Development",
+            "workshops": "Master-classes"
+        },
+        "rights": "All Right Reserved"
+    },
+    "medias_button": {
+        "contact_us": "Contact us",
+        "instagram": "View us on Instagram",
+        "telegram": "Text us on Telegram",
+        "whatsapp": "Text us on WhatsApp",
+        "close": "Close"
+    },
+    "navbar": {
+        "agency": "Complex agency",
+        "design": "Design",
+        "SMM": "SMM",
+        "development": "Development"
+    },
+    "development": {
+        "title": "Cases for Development / Background",
+        "price": "Show me your prices",
+        "joke": "Contact us now!  Let's discuss. Undoubtedly we'll deal😜",
+        "close": "Close",
+        "view": "View"
+    },
+    "SMM": {
+        "title": "Cases for SMM / Background",
+        "price": "Show me your prices",
+        "joke": "Contact us now!  Let's discuss. Undoubtedly we'll deal😜",
+        "close": "Close",
+        "view": "View"
+    },    
+    "design": {
+        "title": "Cases for Design / Background",
+        "price": "Show me your prices",
+        "joke": "Contact us now!  Let's discuss. Undoubtedly we'll deal😜",
+        "close": "Close",
+        "view": "View"
+    }
+
+}
