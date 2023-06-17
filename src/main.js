@@ -23,9 +23,9 @@ const vuetify = createVuetify({
 
 const localStoreLang = localStorage.getItem('lang')
 
-// if(!localStoreLang) {
-//     localStorage.setItem('lang', 'ru')
-// }
+if(!localStoreLang) {
+    localStorage.setItem('lang', 'ru')
+}
 
 const messages = Object.assign(languages)
 
