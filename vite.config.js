@@ -4,6 +4,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '/nomad-it/',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
