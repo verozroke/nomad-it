@@ -1,6 +1,7 @@
 import { defineConfig } from 'vite'
 import path from 'node:path'
 import vue from '@vitejs/plugin-vue'
+import VueI18nPlugin from '@intlify/unplugin-vue-i18n/vite'
 
 // https://vitejs.dev/config/
 export default defineConfig({
@@ -17,5 +18,8 @@ export default defineConfig({
       '@styles': path.resolve(__dirname, './src/styles'),
     }
   },
-  plugins: [vue()],
+  plugins: [vue(),
+    VueI18nPlugin({
+      runtimeOnly: false
+    })],
 })
