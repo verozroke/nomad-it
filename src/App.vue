@@ -35,6 +35,7 @@ import MediasButton from './components/entities/MediasButton.vue';
     display: flex;
     flex-direction: column;
     overflow: clip;
+
     min-height: 100vh;
     background-color: #fff;
 }

@@ -31,7 +31,7 @@ const props = defineProps({
 
 <style lang="scss" scoped>
 * { box-sizing: border-box; }
-$duration: 10s;
+$duration: 20s;
 
 @-webkit-keyframes ticker {
   0% {
