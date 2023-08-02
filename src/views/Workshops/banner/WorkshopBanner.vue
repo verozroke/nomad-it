@@ -27,7 +27,7 @@ function scrollDown(blockID) {
 
 <style lang="scss" scoped>
 .banner {
-  height: calc(100vh - 50px);
+  height: 100vh;
 
   &__title {
     font-size: 100px;

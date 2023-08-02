@@ -21,12 +21,12 @@ const cards = ref([
   {
     id: 1,
     title: 'HTML & CSS',
-    price: '20 000',
+    price: '19 990',
     oldPrice: '32 500',
     duration: '2-4 часа',
     difficulty: 'Лёгкий',
     bannerSrc: 'https://miro.medium.com/v2/resize:fit:1400/1*esOa9npMi79rC50Ds3nR1g.png',
-    planSrc: '',
+    planSrc: '/nomad-it/storage/program.pdf',
     formsLink: 'https://forms.gle/bNNASPDkQjUqMyE19',
     whatsappLink: 'https://api.whatsapp.com/send/?phone=77053505988'
   }
