@@ -21,8 +21,8 @@ const cards = ref([
   {
     id: 1,
     title: 'HTML & CSS',
-    price: '19 990',
-    oldPrice: '32 500',
+    price: '4 490/9 990/19 990',
+    oldPrice: '9 990\n/19 990\n/32 500',
     duration: '2-4 часа',
     difficulty: 'Лёгкий',
     bannerSrc: 'https://miro.medium.com/v2/resize:fit:1400/1*esOa9npMi79rC50Ds3nR1g.png',
